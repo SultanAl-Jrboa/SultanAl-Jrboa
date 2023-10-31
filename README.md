@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanal-jrboa&label=Profile%20views&color=0e75b6&style=flat" alt="sultanal-jrboa" /> </p>
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning **Comptia A+ and Python**
 
 - 👨‍💻 All of my projects are available at [https://sultanaljrboa.tech/](https://sultanaljrboa.tech/)
 
 - 📝 I regularly write articles on [https://sultanaljrboa.tech/blogs.html](https://sultanaljrboa.tech/blogs.html)
 
-- 💬 Ask me about **Python, Electronics, IoT**
+- 💬 Ask me about **IoT, 3D Printer, Python,**
 
 - 📫 How to reach me **sultanaljrboua@gmail.com**
 
