@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://sultanaljrboa.tech/blogs.html](https://sultanaljrboa.tech/blogs.html)
 
-- 💬 Ask me about **IoT, 3D Printer, Python,**
+- 💬 Ask me about **IoT, 3D Printer, Python**
 
 - 📫 How to reach me **sultanaljrboua@gmail.com**
 
