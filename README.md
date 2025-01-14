@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanal-jrboa&label=Profile%20views&color=0e75b6&style=flat" alt="sultanal-jrboa" /> </p>
 
-- 🌱 I’m currently learning **Comptia A+ and Python**
+- 🌱 I’m currently learning **Data Engineer at SDAIA and CCNA**
 
-- 👨‍💻 All of my projects are available at [https://sultanaljrboa.tech/](https://sultanaljrboa.tech/)
+- 👨‍💻 All of my projects are available at [https://sultanaljrboa.sa/](https://sultanaljrboa.sa/)
 
-- 📝 I regularly write articles on [https://sultanaljrboa.tech/blogs.html](https://sultanaljrboa.tech/blogs.html)
+- 📝 I regularly write articles on [https://sultanaljrboa.sa/blogs.html](https://sultan-blog.netlify.app/)
 
-- 💬 Ask me about **IoT, 3D Printer, Python**
+- 💬 Ask me about **IoT, 3D Printer, Python, AIIoT**
 
-- 📫 How to reach me **sultanaljrboua@gmail.com**
+- 📫 How to reach me **sultan.aljrboua@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
