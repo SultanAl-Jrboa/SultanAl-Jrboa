@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanal-jrboa&label=Profile%20views&color=0e75b6&style=flat" alt="sultanal-jrboa" /> </p>
 
-- 🌱 I’m currently learning **Data Engineer at SDAIA and CCNA**
+- 🌱 I’m currently **Data Engineer at SDAIA**
 
 - 👨‍💻 All of my projects are available at [https://sultanaljrboa.sa/](https://sultanaljrboa.sa/)
 
