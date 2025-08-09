@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://sultanaljrboa.sa/blogs.html](https://sultan-blog.netlify.app/)
 
-- 💬 Ask me about **IoT, 3D Printer, Python, AIIoT**
+- 💬 Ask me about **IoT, Electronics, Python, AIoT**
 
 - 📫 How to reach me **sultan.aljrboua@gmail.com**
 
