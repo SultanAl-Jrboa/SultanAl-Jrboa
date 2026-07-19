@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sultan Al-Jrboa</h1>
+<h1 align="center">Hi, I'm Sultan Aljarbua</h1>
 
 <h3 align="center">
 Backend Developer | Computer Engineer | IoT & Embedded Systems Builder
